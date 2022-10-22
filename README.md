@@ -8,7 +8,7 @@ List of college projects by undergraduates from 077 Batch, Pulchowk Campus.
 * [Mini Tourist Guide](https://github.com/paudelanil/C-project) -@AagabBhattarai (BCT001), @agrim_paneru(BCT008), @paudelanil(BCT010), @ashim_karki(BCT013), @Binit17(BCT017)
 * [Cryptics-Encryption Via RSA](https://github.com/A-atmos/RSAinC) -@aavashChhetri(BCT004),@AmritSharma(BCT009),@DavidGurung(BCT025),@KushalPoudel(BCT039,@MandipThapa(BCT044)
 * [Selection-sort-algorithm](https://github.com/WT-Kripesh/C_miniproject_Selection-sort-algorithm) - @WT-kripesh (BCT 037), @Biraj Kumar Kranjit (BCT020), @biraj_acharya (BCT019), @hemant_panchariya(BCT029)
-
+* [Pong-Game](https://github.com/aashishstha123/pongGame.git) - @Aashish Shrestha (BCT 003), @Anmol Chalise (BCT011), @Avahan Tamrakar(BCT015), @Darshan Koirala(BCT024)
 ---
 
 ### Note:
